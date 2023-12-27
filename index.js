@@ -39,7 +39,7 @@ function yesThala(){
     box.innerHTML= '<div class="no" ><video src="./Dhoni.mp4"  loop autoplay  width="200" height="150" id="ok"></video></div>';
     setTimeout(()=> {
         box.innerHTML = '' ;
-    },17000); 
+    },19000); 
 
 }
 
@@ -49,6 +49,6 @@ function noThala(){
     box.innerHTML= '<h1 class="no">NoThala</h1> <audio src="./DhoniChat Meme.mp3" type="audio.mp3" loop autoplay></audio>';
     setTimeout(()=> {
         box.innerHTML = '' ;
-    },5500); 
+    },5700); 
 }
 
